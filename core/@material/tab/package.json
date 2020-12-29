@@ -1,0 +1,66 @@
+{
+  "_from": "@material/tab@^8.0.0",
+  "_id": "@material/tab@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-AQ/7EJpKG6Pz+s3XGwWXWZxEgjM6U3xZfKFgL8l8yGQtnyY24sJHbIrCmuS2HQ74DfkZg8FElovuSLOJ6yypVg==",
+  "_location": "/@material/tab",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@material/tab@^8.0.0",
+    "name": "@material/tab",
+    "escapedName": "@material%2ftab",
+    "scope": "@material",
+    "rawSpec": "^8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.0"
+  },
+  "_requiredBy": [
+    "/@material/tab-bar",
+    "/@material/tab-scroller",
+    "/material-components-web"
+  ],
+  "_resolved": "https://registry.npmjs.org/@material/tab/-/tab-8.0.0.tgz",
+  "_shasum": "a4c79c43cd61d1f3681e5279b9d7c8a5d22855a0",
+  "_spec": "@material/tab@^8.0.0",
+  "_where": "C:\\wamp64\\www\\solias\\wp-content\\themes\\berkelium-material\\node_modules\\material-components-web",
+  "bugs": {
+    "url": "https://github.com/material-components/material-components-web/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material/base": "^8.0.0",
+    "@material/feature-targeting": "^8.0.0",
+    "@material/ripple": "^8.0.0",
+    "@material/rtl": "^8.0.0",
+    "@material/tab-indicator": "^8.0.0",
+    "@material/theme": "^8.0.0",
+    "@material/typography": "^8.0.0",
+    "tslib": "^1.9.3"
+  },
+  "deprecated": false,
+  "description": "The Material Components for the web tab component",
+  "gitHead": "d6b5cd4181d0bf11b598b5ca142343fbc87976b9",
+  "homepage": "https://github.com/material-components/material-components-web#readme",
+  "keywords": [
+    "material components",
+    "material design",
+    "tab"
+  ],
+  "license": "MIT",
+  "main": "dist/mdc.tab.js",
+  "module": "index.js",
+  "name": "@material/tab",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-components/material-components-web.git",
+    "directory": "packages/mdc-tab"
+  },
+  "sideEffects": false,
+  "types": "dist/mdc.tab.d.ts",
+  "version": "8.0.0"
+}

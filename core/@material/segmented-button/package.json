@@ -1,0 +1,59 @@
+{
+  "_from": "@material/segmented-button@^8.0.0",
+  "_id": "@material/segmented-button@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-E25nXvNhRHYqhvwWXTxYGylNwQFA9tad0GreTf6eiyQLsQmqnM/BKhnqPRLYzX17jitgyb7GdY/kQyzUmwFzFg==",
+  "_location": "/@material/segmented-button",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@material/segmented-button@^8.0.0",
+    "name": "@material/segmented-button",
+    "escapedName": "@material%2fsegmented-button",
+    "scope": "@material",
+    "rawSpec": "^8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.0"
+  },
+  "_requiredBy": [
+    "/material-components-web"
+  ],
+  "_resolved": "https://registry.npmjs.org/@material/segmented-button/-/segmented-button-8.0.0.tgz",
+  "_shasum": "af872b2e70a6db4b84fb35982e0c78a6fd50c7ed",
+  "_spec": "@material/segmented-button@^8.0.0",
+  "_where": "C:\\wamp64\\www\\solias\\wp-content\\themes\\berkelium-material\\node_modules\\material-components-web",
+  "bugs": {
+    "url": "https://github.com/material-components/material-components-web/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material/base": "^8.0.0",
+    "@material/elevation": "^8.0.0",
+    "@material/feature-targeting": "^8.0.0",
+    "@material/ripple": "^8.0.0",
+    "@material/theme": "^8.0.0",
+    "@material/touch-target": "^8.0.0",
+    "@material/typography": "^8.0.0"
+  },
+  "deprecated": false,
+  "description": "The Material Components for the web segmented button component",
+  "gitHead": "d6b5cd4181d0bf11b598b5ca142343fbc87976b9",
+  "homepage": "https://github.com/material-components/material-components-web#readme",
+  "keywords": [
+    "material components",
+    "material design",
+    "segmented button"
+  ],
+  "license": "MIT",
+  "name": "@material/segmented-button",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-components/material-components-web.git",
+    "directory": "packages/mdc-segmented-button"
+  },
+  "version": "8.0.0"
+}

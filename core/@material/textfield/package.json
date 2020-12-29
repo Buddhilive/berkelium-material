@@ -1,0 +1,68 @@
+{
+  "_from": "@material/textfield@^8.0.0",
+  "_id": "@material/textfield@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Ec9T5gctPgy2mOnBr690aB2bYzfQblDRhfABNEMX41+Q9ywhzMrKGBCjyYiCzwOWTLOWxsXMXPfnTSkDq991yA==",
+  "_location": "/@material/textfield",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@material/textfield@^8.0.0",
+    "name": "@material/textfield",
+    "escapedName": "@material%2ftextfield",
+    "scope": "@material",
+    "rawSpec": "^8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.0"
+  },
+  "_requiredBy": [
+    "/material-components-web"
+  ],
+  "_resolved": "https://registry.npmjs.org/@material/textfield/-/textfield-8.0.0.tgz",
+  "_shasum": "82cb0204b8f9c3ad6ac1d667b1d749beaddbfc82",
+  "_spec": "@material/textfield@^8.0.0",
+  "_where": "C:\\wamp64\\www\\solias\\wp-content\\themes\\berkelium-material\\node_modules\\material-components-web",
+  "bugs": {
+    "url": "https://github.com/material-components/material-components-web/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material/animation": "^8.0.0",
+    "@material/base": "^8.0.0",
+    "@material/density": "^8.0.0",
+    "@material/dom": "^8.0.0",
+    "@material/feature-targeting": "^8.0.0",
+    "@material/floating-label": "^8.0.0",
+    "@material/line-ripple": "^8.0.0",
+    "@material/notched-outline": "^8.0.0",
+    "@material/ripple": "^8.0.0",
+    "@material/rtl": "^8.0.0",
+    "@material/shape": "^8.0.0",
+    "@material/theme": "^8.0.0",
+    "@material/typography": "^8.0.0",
+    "tslib": "^1.9.3"
+  },
+  "deprecated": false,
+  "description": "The Material Components for the web text field component",
+  "gitHead": "d6b5cd4181d0bf11b598b5ca142343fbc87976b9",
+  "homepage": "https://github.com/material-components/material-components-web#readme",
+  "keywords": [
+    "material components",
+    "material design",
+    "textfield",
+    "text field"
+  ],
+  "license": "MIT",
+  "main": "dist/mdc.textfield.js",
+  "module": "index.js",
+  "name": "@material/textfield",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-components/material-components-web.git",
+    "directory": "packages/mdc-textfield"
+  },
+  "sideEffects": false,
+  "types": "dist/mdc.textfield.d.ts",
+  "version": "8.0.0"
+}

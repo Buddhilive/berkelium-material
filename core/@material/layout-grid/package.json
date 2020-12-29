@@ -1,0 +1,52 @@
+{
+  "_from": "@material/layout-grid@^8.0.0",
+  "_id": "@material/layout-grid@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-B+vU+BYdFH83q8YoEhX5kAgvcyDPzAiWbnEUhWDyKF+m7Y2r+xSEtQ+nGfFIMS1njdSLhTRhVBhvBxIZ1wA4GQ==",
+  "_location": "/@material/layout-grid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@material/layout-grid@^8.0.0",
+    "name": "@material/layout-grid",
+    "escapedName": "@material%2flayout-grid",
+    "scope": "@material",
+    "rawSpec": "^8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.0"
+  },
+  "_requiredBy": [
+    "/material-components-web"
+  ],
+  "_resolved": "https://registry.npmjs.org/@material/layout-grid/-/layout-grid-8.0.0.tgz",
+  "_shasum": "5d852157f2d423cae4c3bcd93e266cbded022742",
+  "_spec": "@material/layout-grid@^8.0.0",
+  "_where": "C:\\wamp64\\www\\solias\\wp-content\\themes\\berkelium-material\\node_modules\\material-components-web",
+  "bugs": {
+    "url": "https://github.com/material-components/material-components-web/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "The Material Components for the web layout grid component",
+  "gitHead": "d6b5cd4181d0bf11b598b5ca142343fbc87976b9",
+  "homepage": "https://github.com/material-components/material-components-web#readme",
+  "keywords": [
+    "material components",
+    "material design",
+    "grid",
+    "layout"
+  ],
+  "license": "MIT",
+  "name": "@material/layout-grid",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-components/material-components-web.git",
+    "directory": "packages/mdc-layout-grid"
+  },
+  "sideEffects": false,
+  "version": "8.0.0"
+}

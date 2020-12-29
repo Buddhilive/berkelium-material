@@ -1,0 +1,67 @@
+{
+  "_from": "@material/top-app-bar@^8.0.0",
+  "_id": "@material/top-app-bar@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-cCP1eUAuFA8FbNgt+O3MI771IkIIMIUF6pc+hXBMddCBeec4VbSKUCqeRd1TR+RHPTf4BQ1QmutMSY8AkLIoyw==",
+  "_location": "/@material/top-app-bar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@material/top-app-bar@^8.0.0",
+    "name": "@material/top-app-bar",
+    "escapedName": "@material%2ftop-app-bar",
+    "scope": "@material",
+    "rawSpec": "^8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.0"
+  },
+  "_requiredBy": [
+    "/material-components-web"
+  ],
+  "_resolved": "https://registry.npmjs.org/@material/top-app-bar/-/top-app-bar-8.0.0.tgz",
+  "_shasum": "21f2e4a9958b16a256ce3c952c17469d8005323c",
+  "_spec": "@material/top-app-bar@^8.0.0",
+  "_where": "C:\\wamp64\\www\\solias\\wp-content\\themes\\berkelium-material\\node_modules\\material-components-web",
+  "bugs": {
+    "url": "https://github.com/material-components/material-components-web/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material/animation": "^8.0.0",
+    "@material/base": "^8.0.0",
+    "@material/elevation": "^8.0.0",
+    "@material/ripple": "^8.0.0",
+    "@material/rtl": "^8.0.0",
+    "@material/shape": "^8.0.0",
+    "@material/theme": "^8.0.0",
+    "@material/typography": "^8.0.0",
+    "tslib": "^1.9.3"
+  },
+  "deprecated": false,
+  "description": "The Material Components for the web top app bar component",
+  "gitHead": "d6b5cd4181d0bf11b598b5ca142343fbc87976b9",
+  "homepage": "https://github.com/material-components/material-components-web#readme",
+  "keywords": [
+    "material components",
+    "material design",
+    "top app bar",
+    "top-app-bar",
+    "topappbar"
+  ],
+  "license": "MIT",
+  "main": "dist/mdc.topAppBar.js",
+  "module": "index.js",
+  "name": "@material/top-app-bar",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-components/material-components-web.git",
+    "directory": "packages/mdc-top-app-bar"
+  },
+  "sideEffects": false,
+  "types": "dist/mdc.topAppBar.d.ts",
+  "version": "8.0.0"
+}

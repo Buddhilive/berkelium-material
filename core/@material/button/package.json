@@ -1,0 +1,62 @@
+{
+  "_from": "@material/button@^8.0.0",
+  "_id": "@material/button@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-16s11brFwfpWvvJxMtOyUZ7J70TNclV37M4aRlQ1Cjxhk2IUQzeRSADpCl/NdNAZQHEIhrGl2oy21sQqaNhBKg==",
+  "_location": "/@material/button",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@material/button@^8.0.0",
+    "name": "@material/button",
+    "escapedName": "@material%2fbutton",
+    "scope": "@material",
+    "rawSpec": "^8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.0"
+  },
+  "_requiredBy": [
+    "/@material/banner",
+    "/@material/dialog",
+    "/@material/snackbar",
+    "/material-components-web"
+  ],
+  "_resolved": "https://registry.npmjs.org/@material/button/-/button-8.0.0.tgz",
+  "_shasum": "785b8eb7361e18f7e60c638f5c22d8527ba38181",
+  "_spec": "@material/button@^8.0.0",
+  "_where": "C:\\wamp64\\www\\solias\\wp-content\\themes\\berkelium-material\\node_modules\\material-components-web",
+  "bugs": {
+    "url": "https://github.com/material-components/material-components-web/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material/density": "^8.0.0",
+    "@material/elevation": "^8.0.0",
+    "@material/feature-targeting": "^8.0.0",
+    "@material/ripple": "^8.0.0",
+    "@material/rtl": "^8.0.0",
+    "@material/shape": "^8.0.0",
+    "@material/theme": "^8.0.0",
+    "@material/touch-target": "^8.0.0",
+    "@material/typography": "^8.0.0"
+  },
+  "deprecated": false,
+  "description": "The Material Components for the web button component",
+  "gitHead": "d6b5cd4181d0bf11b598b5ca142343fbc87976b9",
+  "homepage": "https://github.com/material-components/material-components-web#readme",
+  "keywords": [
+    "material components",
+    "material design",
+    "button"
+  ],
+  "license": "MIT",
+  "name": "@material/button",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-components/material-components-web.git",
+    "directory": "packages/mdc-button"
+  },
+  "sideEffects": false,
+  "version": "8.0.0"
+}

@@ -1,0 +1,70 @@
+{
+  "_from": "@material/chips@^8.0.0",
+  "_id": "@material/chips@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-olPfOW5hU3bIbntgdyA+rFD2uATfS6LlC9Azt2hqb2Ky9KmcOxP29SJrHcb5ZpoPYirUNkB/GiCqR9sBwND0Aw==",
+  "_location": "/@material/chips",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@material/chips@^8.0.0",
+    "name": "@material/chips",
+    "escapedName": "@material%2fchips",
+    "scope": "@material",
+    "rawSpec": "^8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.0"
+  },
+  "_requiredBy": [
+    "/material-components-web"
+  ],
+  "_resolved": "https://registry.npmjs.org/@material/chips/-/chips-8.0.0.tgz",
+  "_shasum": "59168f864409311be67b4b7623b34dd673b14d10",
+  "_spec": "@material/chips@^8.0.0",
+  "_where": "C:\\wamp64\\www\\solias\\wp-content\\themes\\berkelium-material\\node_modules\\material-components-web",
+  "bugs": {
+    "url": "https://github.com/material-components/material-components-web/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material/animation": "^8.0.0",
+    "@material/base": "^8.0.0",
+    "@material/checkbox": "^8.0.0",
+    "@material/density": "^8.0.0",
+    "@material/dom": "^8.0.0",
+    "@material/elevation": "^8.0.0",
+    "@material/feature-targeting": "^8.0.0",
+    "@material/ripple": "^8.0.0",
+    "@material/rtl": "^8.0.0",
+    "@material/shape": "^8.0.0",
+    "@material/theme": "^8.0.0",
+    "@material/touch-target": "^8.0.0",
+    "@material/typography": "^8.0.0",
+    "tslib": "^1.9.3"
+  },
+  "deprecated": false,
+  "description": "The Material Components for the Web chips component",
+  "gitHead": "d6b5cd4181d0bf11b598b5ca142343fbc87976b9",
+  "homepage": "https://github.com/material-components/material-components-web#readme",
+  "keywords": [
+    "material components",
+    "material design",
+    "chips"
+  ],
+  "license": "MIT",
+  "main": "dist/mdc.chips.js",
+  "module": "index.js",
+  "name": "@material/chips",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-components/material-components-web.git",
+    "directory": "packages/mdc-chips"
+  },
+  "sideEffects": false,
+  "types": "dist/mdc.chips.d.ts",
+  "version": "8.0.0"
+}

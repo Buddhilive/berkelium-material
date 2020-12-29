@@ -1,0 +1,70 @@
+{
+  "_from": "@material/dialog@^8.0.0",
+  "_id": "@material/dialog@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-zRCdg9APj3dbgAASFiBuTflKJ05sq3BJQfjyNcVuXYz4DW6ySnDTCHkq/XwQLfBx79QEFQ9R1GYK/vbr7WWrnA==",
+  "_location": "/@material/dialog",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@material/dialog@^8.0.0",
+    "name": "@material/dialog",
+    "escapedName": "@material%2fdialog",
+    "scope": "@material",
+    "rawSpec": "^8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.0"
+  },
+  "_requiredBy": [
+    "/material-components-web"
+  ],
+  "_resolved": "https://registry.npmjs.org/@material/dialog/-/dialog-8.0.0.tgz",
+  "_shasum": "2ac754000f558650cad140504f4a11824d97e2c4",
+  "_spec": "@material/dialog@^8.0.0",
+  "_where": "C:\\wamp64\\www\\solias\\wp-content\\themes\\berkelium-material\\node_modules\\material-components-web",
+  "bugs": {
+    "url": "https://github.com/material-components/material-components-web/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material/animation": "^8.0.0",
+    "@material/base": "^8.0.0",
+    "@material/button": "^8.0.0",
+    "@material/dom": "^8.0.0",
+    "@material/elevation": "^8.0.0",
+    "@material/feature-targeting": "^8.0.0",
+    "@material/ripple": "^8.0.0",
+    "@material/rtl": "^8.0.0",
+    "@material/shape": "^8.0.0",
+    "@material/theme": "^8.0.0",
+    "@material/touch-target": "^8.0.0",
+    "@material/typography": "^8.0.0",
+    "tslib": "^1.9.3"
+  },
+  "deprecated": false,
+  "description": "The Material Components Web dialog component",
+  "gitHead": "d6b5cd4181d0bf11b598b5ca142343fbc87976b9",
+  "homepage": "https://github.com/material-components/material-components-web#readme",
+  "keywords": [
+    "material components",
+    "material design",
+    "dialog",
+    "modal"
+  ],
+  "license": "MIT",
+  "main": "dist/mdc.dialog.js",
+  "module": "index.js",
+  "name": "@material/dialog",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-components/material-components-web.git",
+    "directory": "packages/mdc-dialog"
+  },
+  "sideEffects": false,
+  "types": "dist/mdc.dialog.d.ts",
+  "version": "8.0.0"
+}

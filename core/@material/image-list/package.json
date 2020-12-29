@@ -1,0 +1,57 @@
+{
+  "_from": "@material/image-list@^8.0.0",
+  "_id": "@material/image-list@8.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-5WvCgaHtbqRwYR2tIUM3D5WYu1PkyodUOSQIfP5V+S6m/0AIFqy66PajRjvQzjQaeB1FCuimVwqp28CPDjukuA==",
+  "_location": "/@material/image-list",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@material/image-list@^8.0.0",
+    "name": "@material/image-list",
+    "escapedName": "@material%2fimage-list",
+    "scope": "@material",
+    "rawSpec": "^8.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^8.0.0"
+  },
+  "_requiredBy": [
+    "/material-components-web"
+  ],
+  "_resolved": "https://registry.npmjs.org/@material/image-list/-/image-list-8.0.0.tgz",
+  "_shasum": "14e951738b30ab591a6c7a9aeb9be447075f0115",
+  "_spec": "@material/image-list@^8.0.0",
+  "_where": "C:\\wamp64\\www\\solias\\wp-content\\themes\\berkelium-material\\node_modules\\material-components-web",
+  "bugs": {
+    "url": "https://github.com/material-components/material-components-web/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material/feature-targeting": "^8.0.0",
+    "@material/shape": "^8.0.0",
+    "@material/theme": "^8.0.0",
+    "@material/typography": "^8.0.0"
+  },
+  "deprecated": false,
+  "description": "The Material Components for the web image list component",
+  "gitHead": "d6b5cd4181d0bf11b598b5ca142343fbc87976b9",
+  "homepage": "https://github.com/material-components/material-components-web#readme",
+  "keywords": [
+    "material components",
+    "material design",
+    "image list"
+  ],
+  "license": "MIT",
+  "name": "@material/image-list",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-components/material-components-web.git",
+    "directory": "packages/mdc-image-list"
+  },
+  "sideEffects": false,
+  "version": "8.0.0"
+}
