@@ -1,16 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BerKelium</title>
+<?php
+get_header( );
+?>
 
-    <?php wp_head(  ) ?>
-</head>
-<body>
-<button class="mdc-button foo-button">
-  <div class="mdc-button__ripple"></div>
-  <span class="mdc-button__label">Button</span>
-</button>
-</body>
-</html>
+<article>
+    <?php 
+    if(have_posts()) {
+        while(have_posts()) {
+            the_post();
+            the_content();
+        }
+    }
+    ?>
+</article>
+
+<?php
+get_footer( );
+?>

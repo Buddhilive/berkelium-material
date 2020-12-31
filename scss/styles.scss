@@ -1,0 +1,18 @@
+.bk-header {
+    position: relative;
+    &__menu {
+        display: flex;
+        list-style-type: none;
+        .menu-item {
+            padding: 0 5px;
+            a {
+                text-decoration: none;
+                color: #fff;
+            }
+        }
+    }
+    &__logo {
+        height: 42px;
+        width: auto;
+    }
+}
